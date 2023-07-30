@@ -1,0 +1,2 @@
+# quote.py
+ Quote Generator
