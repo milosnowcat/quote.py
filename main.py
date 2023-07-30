@@ -3,7 +3,7 @@ import tkinter as ttk
 import ttkbootstrap as ttk
 from fontTools.ttLib import TTFont
 
-URL = "https://api.quotable.io/random"
+URL = "https://api.quotable.io/random?tags=technology"
 
 def select_font(type):
     font_path = f"assets/fonts/Poppins-{type}.ttf"
