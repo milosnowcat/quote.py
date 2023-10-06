@@ -11,10 +11,12 @@ Before installing the project, make sure you have Python 3.x installed on your s
 
 ### Installation Steps
 
+**You can download for windows without python!**
+
 1. Clone the GitHub repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/yourusername/quote.py.git
+   git clone https://github.com/milosnowcat/quote.py.git
    ```
 
    Replace `yourusername` with your GitHub username or use the correct repository URL.
