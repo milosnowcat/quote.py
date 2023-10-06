@@ -34,7 +34,7 @@ Before installing the project, make sure you have Python 3.x installed on your s
 4. Run the Quote.py application:
 
    ```bash
-   python quote.py
+   python main.py
    ```
 
    This will open the user interface of the application where you can get random technology-related quotes by clicking the "Get Quote" button.
